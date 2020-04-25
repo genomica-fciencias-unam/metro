@@ -1,8 +1,7 @@
 ---
 layout: default
-title: ASVs analytical procedures for Hernández et al., 2020 
+title: Analytical ASVs procedures for Hernández et al., 2020 
 ---
-
 
 ```R
 # library(tidyverse)
@@ -1869,6 +1868,6 @@ x4
 
     phyloseq-class experiment-level object
     otu_table()   OTU Table:         [ 1252 taxa and 1 samples ]
-    sample_data() Sample Data:       [ 1 samples by sample variables ]
+    sample_data() Sample Data:       [ 1 samples by 29 sample variables ]
     tax_table()   Taxonomy Table:    [ 1252 taxa by 6 taxonomic ranks ]
 
